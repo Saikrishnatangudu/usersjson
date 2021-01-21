@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "firstname": "user",
+      "lastname": "user",
+      "emailid": "user@gmail.com",
+      "mobileno": "965556655",
+      "gender": "Male",
+      "password": "user",
+      "address": {
+        "street": "ddfewfewf",
+        "city": "efefef",
+        "state": "efefefef",
+        "pincode": "532001"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 1,
+      "account": {
+        "AccNo": 2553,
+        "AccType": "savings",
+        "balance": 56000
+      }
+    },
+    {
+      "firstname": "usera",
+      "lastname": "user",
+      "emailid": "usera@gmail.com",
+      "mobileno": "98454864646",
+      "gender": "Male",
+      "password": "usera",
+      "address": {
+        "street": "fdqwdfwd",
+        "city": "dfwefdwe",
+        "state": "fewfwef",
+        "pincode": "166145"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 2,
+      "account": {
+        "AccNo": 2554,
+        "AccType": "savings",
+        "balance": 44000
+      }
+    },
+    {
+      "firstname": "gowri",
+      "lastname": "gowri",
+      "emailid": "gowri@gmail.com",
+      "mobileno": "4646464",
+      "gender": "Male",
+      "password": "gowri",
+      "address": {
+        "street": "bmn bj",
+        "city": "jnlkkl",
+        "state": "bjknjk",
+        "pincode": "5316"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 3,
+      "account": {
+        "AccNo": 2555,
+        "AccType": "savings",
+        "balance": 50000
+      }
+    }
+  ]
+}
