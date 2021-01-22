@@ -205,7 +205,7 @@
     {
       "fromAccNo": 2554,
       "toAccNo": 2553,
-      "transactionAmmount": 5000,
+      "transactionAmmount": 5555,
       "transactionDate": "2021-01-05T06:38:20.457Z",
       "transactionRemarks": "sucessfull",
       "BalanceOnDate": 44500,
@@ -215,7 +215,7 @@
        {
       "fromAccNo": 2554,
       "toAccNo": 2553,
-      "transactionAmmount": 5000,
+      "transactionAmmount": 2000,
       "transactionDate": "2021-01-07T06:38:20.457Z",
       "transactionRemarks": "sucessfull",
       "BalanceOnDate": 44500,
@@ -225,7 +225,7 @@
        {
       "fromAccNo": 2554,
       "toAccNo": 2553,
-      "transactionAmmount": 5000,
+      "transactionAmmount": 9000,
       "transactionDate": "2021-01-07T06:38:20.457Z",
       "transactionRemarks": "sucessfull",
       "BalanceOnDate": 44500,
