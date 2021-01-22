@@ -1,28 +1,6 @@
 {
   "users": [
     {
-      "firstname": "user",
-      "lastname": "user",
-      "emailid": "user@gmail.com",
-      "mobileno": "965556655",
-      "gender": "Male",
-      "password": "user",
-      "address": {
-        "street": "ddfewfewf",
-        "city": "efefef",
-        "state": "efefefef",
-        "pincode": "532001"
-      },
-      "accstatus": "active",
-      "role": "USER",
-      "id": 1,
-      "account": {
-        "AccNo": 2553,
-        "AccType": "savings",
-        "balance": 56000
-      }
-    },
-    {
       "firstname": "usera",
       "lastname": "user",
       "emailid": "usera@gmail.com",
@@ -37,13 +15,14 @@
       },
       "accstatus": "active",
       "role": "USER",
-      "id": 2,
+      "id": 1,
       "account": {
         "AccNo": 2554,
         "AccType": "savings",
-        "balance": 44000
+        "balance": 43500
       }
     },
+ 
     {
       "firstname": "gowri",
       "lastname": "gowri",
@@ -65,6 +44,140 @@
         "AccType": "savings",
         "balance": 50000
       }
+    },
+    {
+      "firstname": "admin",
+      "lastname": "admin",
+      "emailid": "admin@gmail.com",
+      "mobileno": "0000000000",
+      "gender": "Male",
+      "password": "admin",
+      "address": {
+        "street": "fdsfcdsf",
+        "city": "dfdsfdf",
+        "state": "dfdsf",
+        "pincode": "166666"
+      },
+      "accstatus": "active",
+      "role": "ADMIN",
+      "id": 4
+    },
+    {
+      "firstname": "gggggg",
+      "lastname": "ggggggg",
+      "emailid": "gggggggggg",
+      "mobileno": "999999",
+      "gender": "Male",
+      "password": "aaaa",
+      "address": {
+        "street": "kjnjknd",
+        "city": "kjoljlwd",
+        "state": " kjj",
+        "pincode": "dwdw"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 5,
+      "account": {
+        "AccNo": 5555,
+        "AccType": "reccuring",
+        "balance": 0
+      }
+    },
+    {
+      "firstname": "kavya",
+      "lastname": "kintali",
+      "emailid": "kavya@gmail.com",
+      "mobileno": "5965616",
+      "gender": "Female",
+      "password": "xcxzcxzc",
+      "address": {
+        "street": "xvxczxcv",
+        "city": "czxcxzc",
+        "state": "cxzcxzc",
+        "pincode": "xczxcxz"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 6,
+      "account": {
+        "AccNo": 6666,
+        "AccType": "reccuring",
+        "balance": 0
+      }
+    },
+    {
+      "firstname": "json",
+      "lastname": "json",
+      "emailid": "json@gmail.com",
+      "mobileno": "998988998",
+      "gender": "Male",
+      "password": "json",
+      "address": {
+        "street": "cascsadv",
+        "city": "vdvsdv",
+        "state": "khbi",
+        "pincode": "13223"
+      },
+      "accstatus": "active",
+      "role": "USER",
+      "id": 7,
+      "account": {
+        "AccNo": 33233,
+        "AccType": "Savings",
+        "balance": 0
+      }
+    },
+    {
+      "firstname": "json1",
+      "lastname": "json1",
+      "emailid": "json1@gmail.com",
+      "mobileno": "998988998",
+      "gender": "Male",
+      "password": "json",
+      "address": {
+        "street": "cascsadv",
+        "city": "vdvsdv",
+        "state": "khbi",
+        "pincode": "13223"
+      },
+      "accstatus": "inactive",
+      "role": "USER",
+      "id": 22
+    },
+    {
+      "firstname": "json2",
+      "lastname": "json2",
+      "emailid": "json2@gmail.com",
+      "mobileno": "998988998",
+      "gender": "Male",
+      "password": "json",
+      "address": {
+        "street": "cascsadv",
+        "city": "vdvsdv",
+        "state": "khbi",
+        "pincode": "13223"
+      },
+      "accstatus": "inactive",
+      "role": "USER",
+      "id": 23
+    },
+    {
+      "firstname": "json4",
+      "lastname": "json2",
+      "emailid": "json4@gmail.com",
+      "mobileno": "998988998",
+      "gender": "Male",
+      "password": "json",
+      "address": {
+        "street": "cascsadv",
+        "city": "vdvsdv",
+        "state": "khbi",
+        "pincode": "13223"
+      },
+      "accstatus": "inactive",
+      "role": "USER",
+      "id": 225
     }
   ],
   "transactions": [
@@ -88,6 +201,36 @@
       "BalanceOnDate": 44000,
       "transactionId": 3,
       "id": 3
+    },  
+    {
+      "fromAccNo": 2554,
+      "toAccNo": 2553,
+      "transactionAmmount": 5000,
+      "transactionDate": "2021-01-05T06:38:20.457Z",
+      "transactionRemarks": "sucessfull",
+      "BalanceOnDate": 44500,
+      "transactionId": 2,
+      "id": 20
+    },
+       {
+      "fromAccNo": 2554,
+      "toAccNo": 2553,
+      "transactionAmmount": 5000,
+      "transactionDate": "2021-01-07T06:38:20.457Z",
+      "transactionRemarks": "sucessfull",
+      "BalanceOnDate": 44500,
+      "transactionId": 2,
+      "id": 21
+    },
+       {
+      "fromAccNo": 2554,
+      "toAccNo": 2553,
+      "transactionAmmount": 5000,
+      "transactionDate": "2021-01-07T06:38:20.457Z",
+      "transactionRemarks": "sucessfull",
+      "BalanceOnDate": 44500,
+      "transactionId": 2,
+      "id": 22
     }
   ]
 }
