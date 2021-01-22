@@ -231,6 +231,16 @@
       "BalanceOnDate": 44500,
       "transactionId": 2,
       "id": 22
+    },
+    {
+      "fromAccNo": 2554,
+      "toAccNo": 2553,
+      "transactionAmmount": 9099,
+      "transactionDate": "2021-01-07T06:38:20.457Z",
+      "transactionRemarks": "sucessfull",
+      "BalanceOnDate": 44500,
+      "transactionId": 2,
+      "id": 24
     }
   ]
 }
